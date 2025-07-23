@@ -59,7 +59,7 @@ Whether you're learning JUnit or brushing up on testing patterns, this repo serv
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 ```
 src/
 ├── main/
